@@ -2,7 +2,7 @@
 
 
 
-## A Master student in Big Data Analytics at [USTHB](https://www.usthb.dz/fr) 
+## A Big Data Analytics Master's student at [USTHB](https://www.usthb.dz/fr) 
 
 - I have a degree in **Software Engineering**
 - Currently, I am focusing on learning **Data Analytics**  
