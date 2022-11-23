@@ -2,18 +2,8 @@
 
 
 
-## A Big Data Analytics Master's student at [USTHB](https://www.usthb.dz/fr) 
+## A Big Data Analytics Master's student at [USTHB](https://www.usthb.dz/fr)  with a Software engineering bachelor degree
 
-- I have a degree in **Software Engineering**
-- Currently, I am focusing on learning **Data Analytics**  
-- Interested in **maths** for **Data Science**  
-- I love **solving problems** with **algorithms** and **data structure**
-
-## Open for Internship and other Opportunities in:
-
-- **Software Engineering**
-- **Data Analysis**
-- **Data Science**
 
 ### Connect with me:
 
