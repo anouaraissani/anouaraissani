@@ -2,7 +2,7 @@
 
 
 
-## A Big Data Analytics Master's student at [The Faculty of Computer Science USTHB](https://www.usthb.dz/fr)  with a Software engineering bachelor degree
+## A Big Data Analytics Master's student at [The Faculty of Computer Science USTHB](https://finfo.usthb.dz/)  with a Software engineering bachelor degree
 
 
 ### Connect with me:
