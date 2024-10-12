@@ -2,7 +2,7 @@
 
 
 
-## A Big Data Analytics Fresh Graduate with a Software Engineering background at [3TSolutions](https://3t-solutions.dz/)  
+## A Big Data Engineer at [3TSolutions](https://3t-solutions.dz/)  
 
 
 ### Connect with me:
